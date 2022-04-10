@@ -1,16 +1,24 @@
-# flutter_learnings
+# Flutter Learnings
 
-A new Flutter project.
+A-Z flutter learning project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Main.dart
+2. Scaffold Widget
+3. AppBar
+4. Container Widget
+5. Row Vs. Column
+6. Stateful Vs. Stateless
+7. Routes(Navigations)
+8. ListView & ListTile
+9. TextFeild Widget
+10. Flutter Form
+11. Asynchronous Programming
+12. Future API
+13. Stream & StreamBuilder
+14. State Management
+15. Provider Package
+16. MVVM Vs. Bloc
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![flutter](./assets/images/flutter.png)
